@@ -1,3 +1,4 @@
 file1 from Alpha
 Initial update to File1 from Alpha
-Update file1 from Baker in BrB
+Update File1 out of BrA branch
+Merged (conflict) file1 from Baker in BrB
